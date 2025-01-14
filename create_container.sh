@@ -59,7 +59,7 @@ export PCT_OPTIONS="
   -cmode shell
   -features nesting=1
   -hostname homeassistant
-  -net0 name=eth0,bridge=vmbr0
+  -net0 name=eth0,bridge=vmbr1
   -onboot 1
   -tags homeassistant
 "
